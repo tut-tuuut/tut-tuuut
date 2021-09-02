@@ -1,18 +1,8 @@
 ### Hello ! Bonjour ! 👋
 
-![Agnès’ Github Stats](https://github-readme-stats.vercel.app/api?username=tut-tuuut)
-
-<!--
-**tut-tuuut/tut-tuuut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Aidants Connect @ beta.gouv.fr
+- 🌱 I’m currently learning Python and Web Accessibility
+- 👯 I’m looking to collaborate on meaningful projects
+- 📫 How to reach me: agnes@corelka.fr
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+- ⚡ Languages: French and English
