@@ -1,6 +1,6 @@
 ### Hello ! Bonjour ! 👋
 
-- 🔭 I’m working @ beta.gouv.fr
+- 🔭 I’m working @ Hashbang.coop
 - 🌱 I’m learning Python and Web Accessibility
 - 👯 I’m looking to collaborate on meaningful projects
 - 📫 How to reach me: agnes@corelka.fr
